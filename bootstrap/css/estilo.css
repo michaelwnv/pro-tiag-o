@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+body { 
+    font-family: serif;
+	font-size: 1.1em;
+    text-align: justify;}
+
+section { background-color: firebrick;}
+
+
+
+.primeira {padding: 1% 2% 1% 2%;
+    color: white;
+    position: relative;
+    }
+
+nav { padding: 0% 0% 0% 0%;
+    width: 100%;
+    position: relative;}
+
+
+
+ui {color: white;}
+
+
+
+footer { color: white;
+    background-color: rgb(16, 16, 16);
+    width: 100%;
+    height: 20%;
+    text-align: center;
+    position: relative;
+    bottom: -56%;}
+
+
+table { background-color: black;
+  border-collapse:inherit;
+  border: 1% solid;}
+
+
+tr:hover {
+  background-color:#cc3b3b;
+  color: white;}
+
+
+tr {background-color: white;}
+
+
+
+
+.formulario { background-color: white;}
+
+.avalia {color: white;
+    background-color:rgb(48, 48, 48) ;}
+
+
+
+.baixo {color: black;}  
+
+header {background-color: rgb(48, 48, 48) ;}
+
+.beco {text-align: center;}
+
+.contato {color: black; 
+text-align: center;
+}
